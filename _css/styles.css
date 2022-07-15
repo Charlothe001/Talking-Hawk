@@ -1,0 +1,34 @@
+@charset "UFT-8";
+.header {
+    display: block;
+    border-bottom: 2px solid #888888;
+    margin: 10px;
+    height: 190px;
+}
+.foto_capa {
+    width: 450px;
+    height: 350px;
+}
+.logo {
+    position: relative;
+    left: 35px;
+    top: 10px;
+}
+.menu li {
+    display:inline-block;
+    background-color: #889899;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10%;
+    position: relative;
+    left: 800px;
+    bottom: 180px;
+}
+.footer {
+    display: block;
+    border-top: 2px solid #888888;
+    margin: 10px;
+}
+.footer p{
+    text-align: center;
+}
