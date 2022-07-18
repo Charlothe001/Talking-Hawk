@@ -6,8 +6,11 @@
     height: 190px;
 }
 .foto_capa {
+    position: relative;
     width: 450px;
     height: 350px;
+    left: 750px;
+    border-radius: 15%;
 }
 .logo {
     position: relative;
